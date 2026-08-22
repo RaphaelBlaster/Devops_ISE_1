@@ -7,6 +7,7 @@ directory with its own source, manifests, and reproduction steps.
 
 | Exercise | Topic | Tools |
 | --- | --- | --- |
+| [Exercise1](Exercise1) | Install Minikube and kubectl, run pods, and expose Nginx | Chocolatey, Minikube, kubectl |
 | [Exercise2](Exercise2) | Containerise a Flask app and run it on Kubernetes | Docker, Kubernetes, Minikube |
 | [Exercise3](Exercise3) | Scale a flash-sale service with a ReplicaSet | Docker, Kubernetes |
 | [Exercise4](Exercise4) | Connect two containers over a user-defined network | Docker networking |
